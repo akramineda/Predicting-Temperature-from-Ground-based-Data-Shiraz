@@ -1,4 +1,4 @@
-# Predicting Temperature from Ground-based Data in Shiraz
+# Predicting Temperature from Ground-based Synoptic Data in Shiraz City, Iran
 With the spirit of reproducible research, this repository contains codes required to produce the results in the manuscript:
 
 > N. Akrami, K. Ziarati, and S. Dev, Predicting Temperature from Ground-based Synoptic Data in Shiraz City, Iran, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021.

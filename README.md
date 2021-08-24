@@ -3,6 +3,7 @@ With the spirit of reproducible research, this repository contains codes require
 
 > N. Akrami, K. Ziarati, and S. Dev, Predicting Temperature from Ground-based Synoptic Data in Shiraz City, Iran, *Proc. Progress In Electromagnetics Research Symposium (PIERS)*, 2021.
 
+Please cite this paper, if you use whole/part of the code in this repository. 
 
 ## Code Organization
 All codes are written in `python3`.
